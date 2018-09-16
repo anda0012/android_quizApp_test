@@ -1,0 +1,34 @@
+<resources>
+    <!--Login Page-->
+    <string name="app_name">QuizApp</string>
+    <string name="lName">UserName</string>
+    <string name="lPassword">Password</string>
+    <string name="lLogin">Login</string>
+    <string name="lCreateAccount">Create Account</string>
+
+    <!--Registration Page-->
+    <string name="rName">Enter name</string>
+    <string name="rUsername">Enter a username</string>
+    <string name="rPassword">Enter a password</string>
+    <string name="rRegister">Register</string>
+
+    <!--Welcome Page-->
+    <string name="wGreeting">Welcome</string>
+    <string name="wUserGreeting">Username</string>
+    <string name="wSelectLang">Select a Language</string>
+
+    <!--User Activity-->
+
+    <!--About Pages-->
+    <string name="startQuiz">Start Quiz</string>
+
+    <string name="next">Next</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="pythonScore">You scored:</string>
+
+    <string name="scoreTitle">Your score is:</string>
+
+    <string name="viewResponses">Review Responses</string>
+</resources>
